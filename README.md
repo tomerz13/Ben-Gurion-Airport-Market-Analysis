@@ -5,7 +5,7 @@ This project analyzes the structural shift in the Israeli aviation market follow
 
 ## 2. Business Problem
 
-**The Context:** The aviation industry is highly sensitive to exogenous shocks. In October 2023, the Israeli aviation market faced an unprecedented crisis: a sharp drop in flight supply and a complete shutdown of its top destination—Turkey (Istanbul as a global Hub, and Antalya as a Leisure destination). 
+**The Context:** The aviation industry is highly sensitive to exogenous shocks. In October 2023, the Israeli aviation market faced an unprecedented crisis: a sharp drop in flight supply and a complete shutdown of its top destination - Turkey (Istanbul as a global Hub, and Antalya as a Leisure destination). 
 
 **The Problem:** Without empirical evidence, airlines, tourism boards, and network planners struggle to predict where passenger demand will shift during prolonged geopolitical crises. Do passengers cancel flights entirely (inelastic demand), or do they immediately seek alternatives (destination switching)?
 
