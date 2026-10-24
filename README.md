@@ -30,14 +30,6 @@ To isolate the true "Substitution Effect" from the general market downturn cause
 * **Hub Route Optimization:** The UAE successfully captured a **+2.2%** structural increase in market share, proving its status as a direct substitute for Istanbul. **Recommendation:** Gulf carriers should optimize dynamic pricing and expand transit flight frequencies when competing hubs face geopolitical friction.
 * **Inelastic Long-Haul Markets:** A Placebo test on the US market (New York vs. LA) showed zero significant substitution effect. **Recommendation:** Network planners can rely on long-haul essential routes as stable revenue anchors during regional crises.
 
-## 6. Visualization Preview
 
-![Hub Substitution](link_to_your_graph_1_image.png)
-*Figure 1: The structural break in Hub market share (UAE vs. London Heathrow) following the October 2023 shock.*
-
-![Leisure Substitution](link_to_your_graph_2_image.png)
-*Figure 2: The aggressive substitution effect in the Leisure market (Greece & Cyprus vs. Varna).*
-
----
 
 **Data Note:** The raw panel data was compiled from the official public activity reports of the Israel Airports Authority (IAA). To comply with data ownership, only the analytical Python script and resulting visualizations are hosted in this repository.
